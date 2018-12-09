@@ -1,1 +1,1 @@
-yum install httpd -y
+apt-get install apache2 -y
